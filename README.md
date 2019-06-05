@@ -21,3 +21,4 @@ You can do `./gradlew bootRun`. That will start the Spring server. You can test 
 You can build by running : `docker build -t justin2997/report-generator-microservice .`
 You can run with : `docker run -p:8080:8080 -d justin2997/reportGenerator-microservice:latest`
 You can stop with the id that you resive with docker run : `docker stop 13d8f09d1a431331a058fa6851277e4a648aeacce8ce37063c2d1dddcb5fc807`
+
